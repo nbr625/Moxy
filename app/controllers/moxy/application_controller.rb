@@ -1,4 +1,3 @@
-module Moxy
-  class ApplicationController < ActionController::Base
-  end
+
+class Moxy::ApplicationController < ApplicationController
 end
